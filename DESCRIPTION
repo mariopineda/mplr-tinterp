@@ -1,0 +1,10 @@
+Package: mplr-tinterp
+Type: Package
+Title: Provides tools and preforms the BC temperature interpolation.
+Version: 0.1
+Date: 2010-12-07
+Author: Mario Pineda (mpineda@mpkanalytic.com)
+Maintainer: Mario Pineda (mpineda@mpkanalytic.com)
+Description: 
+License: GPL (>=3), see file LICENSE
+Copyright: 2010-2012 Mario Pineda
